@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/notemaster-33338-39cc648e/notes_backend_workspace/notes_backend"
+}
